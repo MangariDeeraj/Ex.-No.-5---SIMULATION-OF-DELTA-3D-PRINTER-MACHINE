@@ -1,4 +1,3 @@
-![Screenshot 2023-11-21 162137](https://github.com/MangariDeeraj/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/149365485/4e325021-b1a8-4e47-8982-4ded68e69aae)# Ex. No. 5 - SIMULATION-OF-DELTA-3D-PRINTER-MACHINE
 
 ### DATE: 
 ## AIM:
